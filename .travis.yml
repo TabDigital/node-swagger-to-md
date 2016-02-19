@@ -1,7 +1,7 @@
 node_js:
-- "0.12"
-- "4"
+  - "0.12"
+  - "4"
 sudo: false
 language: node_js
-script: "npm run test:cov"
+script: "make"
 after_script: "npm i -g codecov.io && cat ./coverage/lcov.info | codecov"

@@ -23,6 +23,7 @@ Bugs: https://github.com/TabDigital/node-swagger-to-md/issues
 ```
 
 ## Example output
+
 <table>
   <tr>
     <td><b>path</b></td>
