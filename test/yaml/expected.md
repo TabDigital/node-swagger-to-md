@@ -1,0 +1,1 @@
+<table><tr><td>Path</td><td>Method</td><td>Summary</td></tr><tr><td>/products</td><td>GET</td><td>Product Types</td></tr><tr><td>/estimates/price</td><td>GET</td><td>Price Estimates</td></tr><tr><td>/estimates/time</td><td>GET</td><td>Time Estimates</td></tr><tr><td>/me</td><td>GET</td><td>User Profile</td></tr><tr><td>/history</td><td>GET</td><td>User Activity</td></tr></table>
